@@ -1,0 +1,2672 @@
+[
+  {
+    "Code": 10847,
+    "Description": "BOCADITO OBLI BON X36U",
+    "Price": 19265.8
+  },
+  {
+    "Code": 10849,
+    "Description": "PILAS D-2 ENERGIZER",
+    "Price": 16238.3
+  },
+  {
+    "Code": 10852,
+    "Description": "VASITO X250G",
+    "Price": 4194.75
+  },
+  {
+    "Code": 10854,
+    "Description": "CHUPETIN OPEN TATUAJE PATITA X100U",
+    "Price": 8711.5
+  },
+  {
+    "Code": 10855,
+    "Description": "CHUPETIN AMOR MORANGO X24U",
+    "Price": 9328.9
+  },
+  {
+    "Code": 10856,
+    "Description": "CHUPETIN AMOR FRAMBOESA X24U",
+    "Price": 9328.9
+  },
+  {
+    "Code": 10859,
+    "Description": "CHUPETIN WAMIS FRUTA X50U",
+    "Price": 7240.8
+  },
+  {
+    "Code": 10870,
+    "Description": "BOMBON HELADO ESPECIAL X1U",
+    "Price": 7350
+  },
+  {
+    "Code": 10872,
+    "Description": "VASITO BOMBON X1U",
+    "Price": 7350
+  },
+  {
+    "Code": 10875,
+    "Description": "MAGDALENA RELL X8U",
+    "Price": 1525.3
+  },
+  {
+    "Code": 10877,
+    "Description": "BOCADITO OBLIBON X36U",
+    "Price": 2112.95
+  },
+  {
+    "Code": 10878,
+    "Description": "ALFAJOR TINCHO NEGRO X38G",
+    "Price": 599.9
+  },
+  {
+    "Code": 10879,
+    "Description": "ALFAJOR TINCHO BLANCO X38G",
+    "Price": 599.9
+  },
+  {
+    "Code": 10880,
+    "Description": "ALFAJOR TINCHO BL 40UX38G",
+    "Price": 23982.7
+  },
+  {
+    "Code": 10881,
+    "Description": "ALFAJOR TINCHO NG 40UX38G",
+    "Price": 23982.7
+  },
+  {
+    "Code": 10884,
+    "Description": "TREMBLY BICHOS X6U",
+    "Price": 2386.65
+  },
+  {
+    "Code": 10890,
+    "Description": "GALLETA EXHIBICION X1KG",
+    "Price": 6906.55
+  },
+  {
+    "Code": 10921,
+    "Description": "TREMBLY JELLY X6U",
+    "Price": 2386.65
+  },
+  {
+    "Code": 10932,
+    "Description": "PAPAS LAYS 38G",
+    "Price": 572.6
+  },
+  {
+    "Code": 10933,
+    "Description": "CHIZITOS RENO 10X30U",
+    "Price": 507.5
+  },
+  {
+    "Code": 10937,
+    "Description": "GALLETA MANA RELLENA X165G",
+    "Price": 3294.9
+  },
+  {
+    "Code": 10938,
+    "Description": "TUTUCA JULIO CESAR X200G",
+    "Price": 2957.5
+  },
+  {
+    "Code": 10939,
+    "Description": "HELADITO X30U",
+    "Price": 4777.5
+  },
+  {
+    "Code": 10944,
+    "Description": "CHICLE SUPER HIPER ACIDO X40U",
+    "Price": 2368.45
+  },
+  {
+    "Code": 10945,
+    "Description": "CHICLE SUPER ACIDO MZ X50U",
+    "Price": 1834.35
+  },
+  {
+    "Code": 10946,
+    "Description": "CHICLE SUPER ACIDO SANX50U",
+    "Price": 2019.85
+  },
+  {
+    "Code": 10947,
+    "Description": "CHICLE AGOGO ORIGINAL X150U",
+    "Price": 8373.05
+  },
+  {
+    "Code": 10948,
+    "Description": "CHICLE AGOGO PEQUEÑO X300U",
+    "Price": 7057.05
+  },
+  {
+    "Code": 10952,
+    "Description": "MALVAVISCOS X200G",
+    "Price": 2304.75
+  },
+  {
+    "Code": 10958,
+    "Description": "GOMITA NAPOLITANO X280G",
+    "Price": 716.8
+  },
+  {
+    "Code": 10964,
+    "Description": "CHICLE ZOAH! POTE SURT X120U",
+    "Price": 1284.85
+  },
+  {
+    "Code": 10967,
+    "Description": "CARAMELO TRADICIONALE X250G",
+    "Price": 3617.25
+  },
+  {
+    "Code": 10971,
+    "Description": "CHICLE ZOAH! UVA X40U",
+    "Price": 2531.2
+  },
+  {
+    "Code": 10972,
+    "Description": "CHICLE ZOAH! MENTA X40U",
+    "Price": 2531.2
+  },
+  {
+    "Code": 10973,
+    "Description": "CHICLE ZOAH! SANDIA X40U",
+    "Price": 1284.85
+  },
+  {
+    "Code": 10982,
+    "Description": "ALFAJOR NEVARES X40G",
+    "Price": 638.75
+  },
+  {
+    "Code": 10985,
+    "Description": "GALLETA SALVADO X300G",
+    "Price": 1059.45
+  },
+  {
+    "Code": 10986,
+    "Description": "GALLETA SIN SAL X300G",
+    "Price": 2437.4
+  },
+  {
+    "Code": 10987,
+    "Description": "GALLETA CHOCO CHIPS X118G",
+    "Price": 1307.6
+  },
+  {
+    "Code": 10993,
+    "Description": "CHUPETIN AMOR VERDE X24U",
+    "Price": 9328.9
+  },
+  {
+    "Code": 10996,
+    "Description": "MAMADERA COLOR X1U",
+    "Price": 3880.45
+  },
+  {
+    "Code": 10997,
+    "Description": "ARO FANTASIA X1U",
+    "Price": 190.4
+  },
+  {
+    "Code": 11004,
+    "Description": "REGLAS DEL JUEGO X1U ",
+    "Price": 152.25
+  },
+  {
+    "Code": 11007,
+    "Description": "ALFAJOR TANTI 3T X50G",
+    "Price": 540.4
+  },
+  {
+    "Code": 11008,
+    "Description": "ALFAJOR TANTI 3T X50G",
+    "Price": 540.4
+  },
+  {
+    "Code": 11009,
+    "Description": "HUEVO ALTEZA X 22G",
+    "Price": 1174.25
+  },
+  {
+    "Code": 11012,
+    "Description": "ALFAJOR TANTI 2T X 28G",
+    "Price": 328.65
+  },
+  {
+    "Code": 11013,
+    "Description": "ALFAJOR TANTI 2T X 28G",
+    "Price": 337.05
+  },
+  {
+    "Code": 11020,
+    "Description": "CHUPETIN EVOLUTION X24U",
+    "Price": 1412.25
+  },
+  {
+    "Code": 11021,
+    "Description": "CARAMELO SUGUS MAX X70U",
+    "Price": 11126.2
+  },
+  {
+    "Code": 11022,
+    "Description": "BOCADITO SAPITO X70U",
+    "Price": 4143.65
+  },
+  {
+    "Code": 11025,
+    "Description": "TE EN SAQUITO X25U",
+    "Price": 1728.65
+  },
+  {
+    "Code": 11026,
+    "Description": "POLVO P/HORNEAR X1U",
+    "Price": 1019.55
+  },
+  {
+    "Code": 11027,
+    "Description": "BICARBONATO DE SODIO 20G X1U",
+    "Price": 350.35
+  },
+  {
+    "Code": 11028,
+    "Description": "ACEITUNA VERDE 120GX1U",
+    "Price": 561.75
+  },
+  {
+    "Code": 11029,
+    "Description": "VAINILLIN 30CM X1U",
+    "Price": 1465.1
+  },
+  {
+    "Code": 11030,
+    "Description": "MANZANILLA EN SAQ. X1U",
+    "Price": 2192.75
+  },
+  {
+    "Code": 11031,
+    "Description": "YERBA MATE EN SAQ. X1U",
+    "Price": 1810.9
+  },
+  {
+    "Code": 11032,
+    "Description": "CAFE TORRADO SAQ. X1U",
+    "Price": 3116.75
+  },
+  {
+    "Code": 11033,
+    "Description": "AZUCAR IMPALPABLE 250GX1U",
+    "Price": 1673.35
+  },
+  {
+    "Code": 11038,
+    "Description": "ENCENDEDOR CANCUN X25U",
+    "Price": 20810.7
+  },
+  {
+    "Code": 11049,
+    "Description": "LAPICERA CANDELA X1U",
+    "Price": 409.5
+  },
+  {
+    "Code": 11050,
+    "Description": "DRAGON BALL CHICO X1U",
+    "Price": 301.35
+  },
+  {
+    "Code": 11052,
+    "Description": "COLGANTES VARIOS X10U",
+    "Price": 1268.75
+  },
+  {
+    "Code": 11062,
+    "Description": "GALLETA NEVARES X45G",
+    "Price": 572.25
+  },
+  {
+    "Code": 11064,
+    "Description": "CHUPETIN WAMIS YOGHURT X50U",
+    "Price": 7240.8
+  },
+  {
+    "Code": 11070,
+    "Description": "BOMBON COMPLICE X30U",
+    "Price": 1786.05
+  },
+  {
+    "Code": 11079,
+    "Description": "BOMBA DE AGUA HAROLD X100U",
+    "Price": 279.65
+  },
+  {
+    "Code": 11080,
+    "Description": "PILAS AA-4",
+    "Price": 3609.9
+  },
+  {
+    "Code": 11081,
+    "Description": "PILAS AAA-4 MAKAO",
+    "Price": 1151.15
+  },
+  {
+    "Code": 11088,
+    "Description": "MAQUINA AFEITAR XTREME3 X1U",
+    "Price": 284.2
+  },
+  {
+    "Code": 11092,
+    "Description": "ALFAJOR NEVARES X40G",
+    "Price": 638.75
+  },
+  {
+    "Code": 11093,
+    "Description": "NAIPES X50U",
+    "Price": 1989.75
+  },
+  {
+    "Code": 11094,
+    "Description": "CHUPETIN C/ELICE/HONDA X20U",
+    "Price": 1911
+  },
+  {
+    "Code": 11095,
+    "Description": "BOLSA DE CONSORCIO X1U",
+    "Price": 175
+  },
+  {
+    "Code": 11125,
+    "Description": "GALLETA EXHIBICION X400G",
+    "Price": 2844.8
+  },
+  {
+    "Code": 11129,
+    "Description": "LAPICERA INVISIBLE X1U",
+    "Price": 214.55
+  },
+  {
+    "Code": 11134,
+    "Description": "CHUPETIN EVOLUTION X24U",
+    "Price": 1412.25
+  },
+  {
+    "Code": 11135,
+    "Description": "GALLETA SURTIDA X170G",
+    "Price": 1454.95
+  },
+  {
+    "Code": 11138,
+    "Description": "BIZCOCHOS DULCYPAS X200G",
+    "Price": 955.85
+  },
+  {
+    "Code": 11148,
+    "Description": "POCHOCLO X15U",
+    "Price": 3499.3
+  },
+  {
+    "Code": 11154,
+    "Description": "BOMBA T-2  X2U",
+    "Price": 10745.4
+  },
+  {
+    "Code": 11155,
+    "Description": "ALMAXIMO X100MG",
+    "Price": 940.8
+  },
+  {
+    "Code": 11162,
+    "Description": "CARAMELO MIEL GEORGALO X450G",
+    "Price": 7311.85
+  },
+  {
+    "Code": 11169,
+    "Description": "BOMBON DAQUI X50U",
+    "Price": 1756.3
+  },
+  {
+    "Code": 11170,
+    "Description": "CHOCOLATE ALTEZA X100G",
+    "Price": 345.45
+  },
+  {
+    "Code": 11181,
+    "Description": "CONFITE FLYNN PAFF X50G",
+    "Price": 1692.25
+  },
+  {
+    "Code": 11187,
+    "Description": "BIJOU COLGANTE X20U",
+    "Price": 2283.75
+  },
+  {
+    "Code": 11190,
+    "Description": "BURBUJERO X1U",
+    "Price": 634.55
+  },
+  {
+    "Code": 11200,
+    "Description": "CHUPETIN BABOOM X24U",
+    "Price": 1323
+  },
+  {
+    "Code": 11209,
+    "Description": "CHUPETIN FLOPITO X50U",
+    "Price": 5858.65
+  },
+  {
+    "Code": 11224,
+    "Description": "GOMITAS CORAZON X280G",
+    "Price": 964.25
+  },
+  {
+    "Code": 11225,
+    "Description": "GOMITAS SURTIDAS X280G",
+    "Price": 2670.85
+  },
+  {
+    "Code": 11238,
+    "Description": "CHUPETIN WAMIS X50U",
+    "Price": 7240.8
+  },
+  {
+    "Code": 11239,
+    "Description": "PALITO SALADO GOOD SHOW X10U",
+    "Price": 1930.25
+  },
+  {
+    "Code": 11256,
+    "Description": "CHUPETIN BRUXOLITO X50U",
+    "Price": 9700.95
+  },
+  {
+    "Code": 11270,
+    "Description": "LINTERNA MINERA 1LED X1U",
+    "Price": 1735.65
+  },
+  {
+    "Code": 11271,
+    "Description": "CARAMELO LIQUIDO X1U",
+    "Price": 149.1
+  },
+  {
+    "Code": 11272,
+    "Description": "CHUPETIN PARAGUITA X25U",
+    "Price": 1190.7
+  },
+  {
+    "Code": 11277,
+    "Description": "CARAMELO MIEL GEORGALO X450G",
+    "Price": 7311.85
+  },
+  {
+    "Code": 11281,
+    "Description": "SORPRESA X50U",
+    "Price": 5582.5
+  },
+  {
+    "Code": 11285,
+    "Description": "CARAMELO TNT X60U",
+    "Price": 6833.75
+  },
+  {
+    "Code": 11286,
+    "Description": "CHICLE REDONDITOS X70U",
+    "Price": 3934.7
+  },
+  {
+    "Code": 11292,
+    "Description": "MAMADERA C/CONFITES X1U",
+    "Price": 128.8
+  },
+  {
+    "Code": 11295,
+    "Description": "RADIO USB 6FUNCION X1U",
+    "Price": 5022.5
+  },
+  {
+    "Code": 11299,
+    "Description": "GALLETA LARGUITA X150G",
+    "Price": 943.25
+  },
+  {
+    "Code": 11301,
+    "Description": "PALETA CELOFAN X20U",
+    "Price": 6506.5
+  },
+  {
+    "Code": 11303,
+    "Description": "HELADITOS GRANDE X20U",
+    "Price": 4549.65
+  },
+  {
+    "Code": 11309,
+    "Description": "CHUPETIN CHUPETE X25U",
+    "Price": 5927.25
+  },
+  {
+    "Code": 11310,
+    "Description": "GALLETA CHOCO CHIPS X135G",
+    "Price": 1337.35
+  },
+  {
+    "Code": 11311,
+    "Description": "GALLETA PEPAS X400G",
+    "Price": 2930.2
+  },
+  {
+    "Code": 11331,
+    "Description": "AZUQUITA SURTIDAS X50U",
+    "Price": 3309.25
+  },
+  {
+    "Code": 11354,
+    "Description": "CARAMELO MASTICABLE X300G",
+    "Price": 5301.8
+  },
+  {
+    "Code": 11364,
+    "Description": "CHOCOLATE CELOFAN NEGRO X50G",
+    "Price": 2626.05
+  },
+  {
+    "Code": 11369,
+    "Description": "GALLETA SURT ZUPAY X45G",
+    "Price": 540.05
+  },
+  {
+    "Code": 11371,
+    "Description": "JUGO BAGGIO MANZANA X200CC",
+    "Price": 1083.95
+  },
+  {
+    "Code": 11372,
+    "Description": "CONITO 3D X38G",
+    "Price": 348.25
+  },
+  {
+    "Code": 11373,
+    "Description": "CHICLE ZOAH! FRUTA X40U",
+    "Price": 2531.2
+  },
+  {
+    "Code": 11374,
+    "Description": "TEMBLEKE COBRA/RELOJ X1U",
+    "Price": 1774.5
+  },
+  {
+    "Code": 11385,
+    "Description": "CHICLE RECARGADO MENTA X50U",
+    "Price": 6814.5
+  },
+  {
+    "Code": 11386,
+    "Description": "CHICLE RECARGADO FRUTA X50U",
+    "Price": 6814.5
+  },
+  {
+    "Code": 11389,
+    "Description": "CHICLE BOMKY X100U",
+    "Price": 1531.25
+  },
+  {
+    "Code": 11395,
+    "Description": "BOMBON ESPECIAL X300G",
+    "Price": 9196.25
+  },
+  {
+    "Code": 11404,
+    "Description": "PALITO SALADO X100G",
+    "Price": 728
+  },
+  {
+    "Code": 11416,
+    "Description": "TRIANGULITO EXPLOSIVO X10U",
+    "Price": 5264
+  },
+  {
+    "Code": 11417,
+    "Description": "BOM-BIÑA X1U",
+    "Price": 2800
+  },
+  {
+    "Code": 11424,
+    "Description": "GIRATORIO ESTRUENDOSO X5U",
+    "Price": 4424
+  },
+  {
+    "Code": 11425,
+    "Description": "VOLCAN 4 LUCES X4U",
+    "Price": 28000
+  },
+  {
+    "Code": 11426,
+    "Description": "SUPER VOLCAN ESTRUENDOSO X1U",
+    "Price": 3500
+  },
+  {
+    "Code": 11428,
+    "Description": "PIRAMIDE VOLADORA X4U",
+    "Price": 27999.3
+  },
+  {
+    "Code": 11429,
+    "Description": "TEMBLEKE SIMPSONS X6U",
+    "Price": 2832.55
+  },
+  {
+    "Code": 11430,
+    "Description": "GALLETA PALMERITAS X150G",
+    "Price": 3242.75
+  },
+  {
+    "Code": 11442,
+    "Description": "GOMITA GOMOS X280G",
+    "Price": 1062.25
+  },
+  {
+    "Code": 11450,
+    "Description": "PETARDO ESTRUENDOSO X20U",
+    "Price": 5950
+  },
+  {
+    "Code": 11452,
+    "Description": "CARAMELO CREMINO COCO X150G",
+    "Price": 4619.3
+  },
+  {
+    "Code": 11456,
+    "Description": "GALLETA CEREAL MIX X230G",
+    "Price": 1186.15
+  },
+  {
+    "Code": 11457,
+    "Description": "BUDIN DE VAINILLA X170G",
+    "Price": 477.4
+  },
+  {
+    "Code": 11458,
+    "Description": "BUDIN MARMOLADO X170G",
+    "Price": 477.4
+  },
+  {
+    "Code": 11461,
+    "Description": "CHOCOLATE CROCANTE LGO X1U",
+    "Price": 118.65
+  },
+  {
+    "Code": 11470,
+    "Description": "FIGURITAS VARIAS X25U",
+    "Price": 710.5
+  },
+  {
+    "Code": 11478,
+    "Description": "HUEVO KINDER JOY X20G",
+    "Price": 5600.35
+  },
+  {
+    "Code": 11479,
+    "Description": "LINTERNA INFANTIL X1U",
+    "Price": 437.85
+  },
+  {
+    "Code": 11480,
+    "Description": "PEPPA PIG MAGICOX1U",
+    "Price": 186.2
+  },
+  {
+    "Code": 11483,
+    "Description": "GLOBOS AEROSTATICOS X1U",
+    "Price": 6299.3
+  },
+  {
+    "Code": 11484,
+    "Description": "HUEVO DE DRAGON 12X5U",
+    "Price": 17499.3
+  },
+  {
+    "Code": 11491,
+    "Description": "COHETE PICK UP X1U",
+    "Price": 10500
+  },
+  {
+    "Code": 11497,
+    "Description": "SALADIX JAMON AHUMADO X6U",
+    "Price": 1244.95
+  },
+  {
+    "Code": 11499,
+    "Description": "JUGO BAGGIO NARANJA X200ML",
+    "Price": 514.85
+  },
+  {
+    "Code": 11500,
+    "Description": "JUGO BAGGIO MIXFRUTALX200ML",
+    "Price": 583.8
+  },
+  {
+    "Code": 11508,
+    "Description": "CANDELA 50T X6U",
+    "Price": 26879.3
+  },
+  {
+    "Code": 11509,
+    "Description": "CHICLE FIERITA UVA X100U",
+    "Price": 6772.15
+  },
+  {
+    "Code": 11517,
+    "Description": "GOLCITO JUPITER 20X4U",
+    "Price": 16800
+  },
+  {
+    "Code": 11522,
+    "Description": "MANI CROCANTE QUESO/PIZZA/JAMON X500G",
+    "Price": 6597.15
+  },
+  {
+    "Code": 11526,
+    "Description": "BENGALITA FUEGOLANDIA 10X5U",
+    "Price": 23449.3
+  },
+  {
+    "Code": 11528,
+    "Description": "CHICLE FIERITA MENTA X100U",
+    "Price": 6772.15
+  },
+  {
+    "Code": 11529,
+    "Description": "CHICLE FIERITA FRUTA X100U",
+    "Price": 6772.15
+  },
+  {
+    "Code": 11543,
+    "Description": "CANASTA NAVIDEÑA X1U",
+    "Price": 41981.8
+  },
+  {
+    "Code": 11552,
+    "Description": "BOMBA SIGLO XXI X1U",
+    "Price": 8119.3
+  },
+  {
+    "Code": 11556,
+    "Description": "CANDELA 30TIROS X6U",
+    "Price": 21000
+  },
+  {
+    "Code": 11562,
+    "Description": "CAÑITA SILVADORA 6X12U",
+    "Price": 24500
+  },
+  {
+    "Code": 11563,
+    "Description": "GALLETA TRAVIATA 303GX3U",
+    "Price": 5021.8
+  },
+  {
+    "Code": 11574,
+    "Description": "GASEOSA TALCA MAN 500X12U",
+    "Price": 3040.8
+  },
+  {
+    "Code": 11577,
+    "Description": "GASEOSA TALCA COLA 500X12U",
+    "Price": 3040.8
+  },
+  {
+    "Code": 11583,
+    "Description": "JUGO BAGGIO NARANJA X200ML",
+    "Price": 535.5
+  },
+  {
+    "Code": 11586,
+    "Description": "CHICLE FIERITA BANANA X100U",
+    "Price": 6772.15
+  },
+  {
+    "Code": 11593,
+    "Description": "GALLETA MELLIZAS X112G",
+    "Price": 2867.9
+  },
+  {
+    "Code": 11597,
+    "Description": "JUGO BAGGIO DURAZNO 200ML",
+    "Price": 1289.4
+  },
+  {
+    "Code": 11598,
+    "Description": "JUGO BAGGIO DURAZNO X1L",
+    "Price": 4571.7
+  },
+  {
+    "Code": 11601,
+    "Description": "PILAS AAA X4U",
+    "Price": 3609.9
+  },
+  {
+    "Code": 11603,
+    "Description": "JUGO BAGGIO MULTIFRUTA 1L",
+    "Price": 4571.7
+  },
+  {
+    "Code": 11605,
+    "Description": "JUGO BAGGIO MANZANA X1L",
+    "Price": 4439.05
+  },
+  {
+    "Code": 11606,
+    "Description": "JUGO BAGGIO MANZANA X200ML",
+    "Price": 1120.35
+  },
+  {
+    "Code": 11607,
+    "Description": "JUGO BAGGIO PERA X200ML",
+    "Price": 535.5
+  },
+  {
+    "Code": 11608,
+    "Description": "JUGO BAGGIO MULTIFRUTAL X200ML",
+    "Price": 1289.4
+  },
+  {
+    "Code": 11623,
+    "Description": "GELATINA POTE X100U",
+    "Price": 8458.45
+  },
+  {
+    "Code": 11632,
+    "Description": "CONITO 3D X25G",
+    "Price": 1065.4
+  },
+  {
+    "Code": 11637,
+    "Description": "GALLETA CHIROLA X400G",
+    "Price": 3894.8
+  },
+  {
+    "Code": 11638,
+    "Description": "GALLETA VOCACION X141G",
+    "Price": 1919.75
+  },
+  {
+    "Code": 11647,
+    "Description": "CHICLE TOPLINE CITRUS X20U",
+    "Price": 10441.2
+  },
+  {
+    "Code": 11658,
+    "Description": "GALLETA TORTITAS BLACK X125G",
+    "Price": 2958.2
+  },
+  {
+    "Code": 11659,
+    "Description": "PALITO SALADO X200G X1U",
+    "Price": 3867.5
+  },
+  {
+    "Code": 11694,
+    "Description": "CHUPETIN FLYNN PAFF X24U",
+    "Price": 10804.8
+  },
+  {
+    "Code": 11710,
+    "Description": "CHUPETIN AMOR UVA X24U",
+    "Price": 9328.9
+  },
+  {
+    "Code": 11725,
+    "Description": "GALLETA TORTITAS CHOC X125G",
+    "Price": 2958.2
+  },
+  {
+    "Code": 11739,
+    "Description": "CHOCOLATE ARCOR NG X25G",
+    "Price": 1878.8
+  },
+  {
+    "Code": 11740,
+    "Description": "CHOCOLATE ARCOR BL X25G",
+    "Price": 1878.8
+  },
+  {
+    "Code": 11742,
+    "Description": "ALFAJOR TATIN NG 3T X60G",
+    "Price": 1563.1
+  },
+  {
+    "Code": 11743,
+    "Description": "ALFAJOR TATIN BL 3T X60G",
+    "Price": 1563.1
+  },
+  {
+    "Code": 11744,
+    "Description": "GALLETA MACUCAS X160G",
+    "Price": 305.9
+  },
+  {
+    "Code": 11747,
+    "Description": "PAÑUELO BLUE DESCARTABLE X6U",
+    "Price": 931
+  },
+  {
+    "Code": 11748,
+    "Description": "TREMBLITO DOMINO X10U",
+    "Price": 2552.9
+  },
+  {
+    "Code": 11758,
+    "Description": "GALLETA TORTITAS X125G",
+    "Price": 2958.2
+  },
+  {
+    "Code": 11761,
+    "Description": "SEMILLA TINCHO X20U",
+    "Price": 3311
+  },
+  {
+    "Code": 11765,
+    "Description": "GALLETA PEPAS X1KG",
+    "Price": 7138.6
+  },
+  {
+    "Code": 11766,
+    "Description": "GALLETA NEVARES X45G",
+    "Price": 572.25
+  },
+  {
+    "Code": 11769,
+    "Description": "CHICLE FIERITA X100U",
+    "Price": 6772.15
+  },
+  {
+    "Code": 11771,
+    "Description": "PILAS DURACELL AA X2U",
+    "Price": 546
+  },
+  {
+    "Code": 11772,
+    "Description": "PILAS DURACELL AAA X2U",
+    "Price": 518.35
+  },
+  {
+    "Code": 11781,
+    "Description": "PALITO SALADO X500G",
+    "Price": 7052.5
+  },
+  {
+    "Code": 11783,
+    "Description": "GELATINA MICROFONO X1U",
+    "Price": 220.15
+  },
+  {
+    "Code": 11797,
+    "Description": "ALFAJOR GRANDOTE FRUTA 38G",
+    "Price": 111.3
+  },
+  {
+    "Code": 11803,
+    "Description": "PASTILLA CLIX BOLSA X350G",
+    "Price": 3144.4
+  },
+  {
+    "Code": 11804,
+    "Description": "PASTILLA CLIX X50U",
+    "Price": 2974.65
+  },
+  {
+    "Code": 11809,
+    "Description": "CHUPETIN DISNEY X10U",
+    "Price": 759.5
+  },
+  {
+    "Code": 11810,
+    "Description": "SEMILLA TACLA X5U",
+    "Price": 570.85
+  },
+  {
+    "Code": 11812,
+    "Description": "BARRITA BEL X36U",
+    "Price": 5168.45
+  },
+  {
+    "Code": 11813,
+    "Description": "GALLETA POLVORITA X150G",
+    "Price": 1866.2
+  },
+  {
+    "Code": 11814,
+    "Description": "GALLETA POLVORITA X150G",
+    "Price": 1866.2
+  },
+  {
+    "Code": 11815,
+    "Description": "TURRON NEVARES X25G",
+    "Price": 471.8
+  },
+  {
+    "Code": 11818,
+    "Description": "BARRITA KINDER 12,5G",
+    "Price": 1312.85
+  },
+  {
+    "Code": 11822,
+    "Description": "VELAS CHICOS DISMAR X4U",
+    "Price": 1384.25
+  },
+  {
+    "Code": 11834,
+    "Description": "SALADIX CALABRESA CAJA X100G",
+    "Price": 3242.75
+  },
+  {
+    "Code": 11835,
+    "Description": "SALADIX DUO CAJA X100G",
+    "Price": 3242.75
+  },
+  {
+    "Code": 11838,
+    "Description": "GALLETA FROLINI TRIO X160G",
+    "Price": 1693.65
+  },
+  {
+    "Code": 11845,
+    "Description": "GALLETA FORMIS 108G",
+    "Price": 2814
+  },
+  {
+    "Code": 11846,
+    "Description": "GALLETA FORMIS X102G",
+    "Price": 2814
+  },
+  {
+    "Code": 11871,
+    "Description": "JUGO BC NARANJA X18U",
+    "Price": 13179.3
+  },
+  {
+    "Code": 11874,
+    "Description": "JUGO BC NARANJA DULCE X18U",
+    "Price": 8771.7
+  },
+  {
+    "Code": 11880,
+    "Description": "GALLETA POLVORITA X150G",
+    "Price": 1866.2
+  },
+  {
+    "Code": 11888,
+    "Description": "HALLS CHERRY X12U",
+    "Price": 8226.4
+  },
+  {
+    "Code": 11889,
+    "Description": "HALLS MENTHO LYPTUS X12U",
+    "Price": 8226.4
+  },
+  {
+    "Code": 11890,
+    "Description": "HALLS STRONG LYPTUS X12U",
+    "Price": 8226.4
+  },
+  {
+    "Code": 11894,
+    "Description": "HELADITO GRANDE X6U",
+    "Price": 3797.5
+  },
+  {
+    "Code": 11898,
+    "Description": "GALLETA FORMIS X102G",
+    "Price": 2814
+  },
+  {
+    "Code": 11899,
+    "Description": "PILAS MAKAO AA-4",
+    "Price": 1151.15
+  },
+  {
+    "Code": 11906,
+    "Description": "SEMILLA PREMIUM SAN JORGE X10U",
+    "Price": 5839.4
+  },
+  {
+    "Code": 11911,
+    "Description": "TORTUGUITA BLANCA X24U",
+    "Price": 4530.4
+  },
+  {
+    "Code": 11912,
+    "Description": "TORTUGUITA GODY LECHE X24U",
+    "Price": 4530.4
+  },
+  {
+    "Code": 11915,
+    "Description": "JUGO ADES MANZANA X1L",
+    "Price": 5040
+  },
+  {
+    "Code": 11922,
+    "Description": "SALADIX FINISIMA 25GX6U",
+    "Price": 1244.95
+  },
+  {
+    "Code": 11924,
+    "Description": "JUGO BC LIMONADA X18U",
+    "Price": 2411.85
+  },
+  {
+    "Code": 11928,
+    "Description": "GALLETA CRIOLLITA X300G",
+    "Price": 472.85
+  },
+  {
+    "Code": 11931,
+    "Description": "BOMBA TRUENO 11/2 X1U",
+    "Price": 5250
+  },
+  {
+    "Code": 11932,
+    "Description": "BOMBA TRUENO 2 X1U",
+    "Price": 5948.25
+  },
+  {
+    "Code": 11933,
+    "Description": "DELI JELLY X16U",
+    "Price": 1236.2
+  },
+  {
+    "Code": 11934,
+    "Description": "CHUPETIN TORNEADITO X25U",
+    "Price": 957.95
+  },
+  {
+    "Code": 11938,
+    "Description": "GALLETA MACUCAS X123G",
+    "Price": 2275
+  },
+  {
+    "Code": 11941,
+    "Description": "TOSTADA CRIOLLITAS X200G",
+    "Price": 4416.3
+  },
+  {
+    "Code": 11942,
+    "Description": "TOSTADA CRIOLLITAS X200G",
+    "Price": 4416.3
+  },
+  {
+    "Code": 11943,
+    "Description": "GALLETA CEREALITAS X200G",
+    "Price": 472.85
+  },
+  {
+    "Code": 11947,
+    "Description": "BUDIN CON CHIPS X170G",
+    "Price": 677.95
+  },
+  {
+    "Code": 11948,
+    "Description": "BUDIN CON FRUTAS X170G",
+    "Price": 477.4
+  },
+  {
+    "Code": 11952,
+    "Description": "JUGO ADES MANZANA 200ML X6U",
+    "Price": 12600
+  },
+  {
+    "Code": 11953,
+    "Description": "SALADIX EN CAJA PARMESANO X100G",
+    "Price": 3242.75
+  },
+  {
+    "Code": 11964,
+    "Description": "VASOS PLASTICO X50U",
+    "Price": 6825
+  },
+  {
+    "Code": 11974,
+    "Description": "BOLSAS ESPECIERAS",
+    "Price": 3185
+  },
+  {
+    "Code": 11975,
+    "Description": "ROLLO 15X25",
+    "Price": 6825
+  },
+  {
+    "Code": 11976,
+    "Description": "ROLLO 20X30",
+    "Price": 12739.7
+  },
+  {
+    "Code": 11978,
+    "Description": "BOLSAS MEDIANAS C/MANIJAS",
+    "Price": 2957.5
+  },
+  {
+    "Code": 11979,
+    "Description": "BOLSAS GRANDES C/MANIJAS",
+    "Price": 3867.5
+  },
+  {
+    "Code": 11981,
+    "Description": "GALLETA TRIO SCONS X200G",
+    "Price": 1693.65
+  },
+  {
+    "Code": 12003,
+    "Description": "TURRON DE MANI OKLAHOMA X70G",
+    "Price": 460.95
+  },
+  {
+    "Code": 12012,
+    "Description": "JUGO INCA ANANA X18U",
+    "Price": 7175
+  },
+  {
+    "Code": 12013,
+    "Description": "JUGO INCA NARANJA X18U",
+    "Price": 7175
+  },
+  {
+    "Code": 12014,
+    "Description": "JUGO INCA NARANJA MANGO X18U",
+    "Price": 7175
+  },
+  {
+    "Code": 12018,
+    "Description": "JUGO ARCOR NARANJA X18U",
+    "Price": 6217.05
+  },
+  {
+    "Code": 12021,
+    "Description": "JUGO ARCOR MULTIFRUTAL X18U",
+    "Price": 6217.05
+  },
+  {
+    "Code": 12022,
+    "Description": "BOLDO EN SAQUITOS X1U",
+    "Price": 2943.85
+  },
+  {
+    "Code": 12023,
+    "Description": "AJI MOLIDO 25G X1U",
+    "Price": 864.5
+  },
+  {
+    "Code": 12024,
+    "Description": "CONDIMENTO P/ARROZ 25G X1U",
+    "Price": 1080.1
+  },
+  {
+    "Code": 12025,
+    "Description": "CONDIMENTO P/PIZZA 25G X1U",
+    "Price": 1142.05
+  },
+  {
+    "Code": 12026,
+    "Description": "OREGANO EN HOJA 25G X1U",
+    "Price": 1933.75
+  },
+  {
+    "Code": 12027,
+    "Description": "PIMIENTA BLANCA MOL 25G X1U",
+    "Price": 1784.65
+  },
+  {
+    "Code": 12028,
+    "Description": "COMINO MOLIDO 25G X1U",
+    "Price": 1442.35
+  },
+  {
+    "Code": 12029,
+    "Description": "PIMENTON EXTRA DULCE 25G X1U",
+    "Price": 1097.6
+  },
+  {
+    "Code": 12030,
+    "Description": "PROVENZAL 25G X1U",
+    "Price": 1474.2
+  },
+  {
+    "Code": 12035,
+    "Description": "BOMBON SURTIDO BEL X450G",
+    "Price": 9199.4
+  },
+  {
+    "Code": 12065,
+    "Description": "CHICLE TOPLINE 7 MINT X16U",
+    "Price": 29171.8
+  },
+  {
+    "Code": 12066,
+    "Description": "CHUPETIN PELOTITA/LECHE X50U",
+    "Price": 6370
+  },
+  {
+    "Code": 12067,
+    "Description": "CARAMELO MASTICABLE X300G",
+    "Price": 5301.8
+  },
+  {
+    "Code": 12068,
+    "Description": "CARAMELO MASTICABLE BERBAU X300G",
+    "Price": 5301.8
+  },
+  {
+    "Code": 12071,
+    "Description": "BUDIN TRIO VAINILLA X200G",
+    "Price": 319.9
+  },
+  {
+    "Code": 12077,
+    "Description": "BASE MISIL FUEGOLANDIA 16T X4U",
+    "Price": 10500
+  },
+  {
+    "Code": 12078,
+    "Description": "REMOLINO DE LUCES X1U",
+    "Price": 6272
+  },
+  {
+    "Code": 12079,
+    "Description": "BOMBA DOBLE TRUENO X1U",
+    "Price": 9450.35
+  },
+  {
+    "Code": 12082,
+    "Description": "BOMBA COLOR TORNADO 6U",
+    "Price": 25188.1
+  },
+  {
+    "Code": 12084,
+    "Description": "SUPER CAÑON T1 X2U",
+    "Price": 11901.8
+  },
+  {
+    "Code": 12097,
+    "Description": "AVION NOCTURNO X6U",
+    "Price": 13440
+  },
+  {
+    "Code": 12098,
+    "Description": "BOMBA SHELL 2 COLOR X6U",
+    "Price": 40858.3
+  },
+  {
+    "Code": 12099,
+    "Description": "BOMBA SHELL 2 ESTRUENDO X6U",
+    "Price": 42000
+  },
+  {
+    "Code": 12100,
+    "Description": "FOSFORITO TROMPITO 40X5U",
+    "Price": 25760.7
+  },
+  {
+    "Code": 12101,
+    "Description": "SUPER CAÑON T2 X2U",
+    "Price": 22400
+  },
+  {
+    "Code": 12103,
+    "Description": "BOMBA SHELL 11/2 X6U",
+    "Price": 32256
+  },
+  {
+    "Code": 12104,
+    "Description": "PETARDO TERREMOTO X5U",
+    "Price": 7000.7
+  },
+  {
+    "Code": 12105,
+    "Description": "ARITOS X1KG",
+    "Price": 9555
+  },
+  {
+    "Code": 12107,
+    "Description": "JUGO BAGGIO NARANJA X125ML",
+    "Price": 315
+  },
+  {
+    "Code": 12109,
+    "Description": "JO-JO-JO RUIDITO X4U",
+    "Price": 21000
+  },
+  {
+    "Code": 12110,
+    "Description": "ESCOBILLON POLAR X1U",
+    "Price": 528.15
+  },
+  {
+    "Code": 12111,
+    "Description": "RESPUESTO AROMATIZA X1U",
+    "Price": 1411.9
+  },
+  {
+    "Code": 12112,
+    "Description": "CHOCOLATE MARIPOSA X1U",
+    "Price": 149.1
+  },
+  {
+    "Code": 12113,
+    "Description": "ROLLO COCINA SOL MAYOR X3U",
+    "Price": 449.75
+  },
+  {
+    "Code": 12114,
+    "Description": "ALMAXIMO 50MG X1U",
+    "Price": 554.4
+  },
+  {
+    "Code": 12115,
+    "Description": "BOCINA PARA BICI X1U",
+    "Price": 693
+  },
+  {
+    "Code": 12116,
+    "Description": "BOLSA VAMOS ARGENTINA X1U",
+    "Price": 179.2
+  },
+  {
+    "Code": 12117,
+    "Description": "PUNTOS",
+    "Price": 49
+  },
+  {
+    "Code": 12118,
+    "Description": "CUBANITOS/CUCURUCHOS 15/30U",
+    "Price": 426.3
+  },
+  {
+    "Code": 12119,
+    "Description": "TIRA LED COLOR CONTROL X1U",
+    "Price": 11801.7
+  },
+  {
+    "Code": 12120,
+    "Description": "ENSALADERA X1U",
+    "Price": 315.35
+  },
+  {
+    "Code": 12121,
+    "Description": "BOMBILLITAS CHINAS X1U",
+    "Price": 246.05
+  },
+  {
+    "Code": 12122,
+    "Description": "CAJA PARA NAIPES X1U",
+    "Price": 929.25
+  },
+  {
+    "Code": 12123,
+    "Description": "DIFUSOR C/4PALILLOS X1U",
+    "Price": 1617.35
+  },
+  {
+    "Code": 12134,
+    "Description": "CREMITA ORIANA X30U",
+    "Price": 3893.05
+  },
+  {
+    "Code": 12135,
+    "Description": "CONDIMENTO PARA CARNES X25G",
+    "Price": 1386
+  },
+  {
+    "Code": 12136,
+    "Description": "CONDIMENTO PARA AVES X25G",
+    "Price": 1386
+  },
+  {
+    "Code": 12137,
+    "Description": "COCO RALLADO X50G",
+    "Price": 1533.35
+  },
+  {
+    "Code": 12151,
+    "Description": "JUGO INCA MULTIFRUTA X18U",
+    "Price": 7175
+  },
+  {
+    "Code": 12155,
+    "Description": "GALLETA MIRGALITA X170G",
+    "Price": 797.65
+  },
+  {
+    "Code": 12156,
+    "Description": "JUGO BAGGIO MANZANA X125ML",
+    "Price": 853.65
+  },
+  {
+    "Code": 12160,
+    "Description": "CARAMELO MASTICABLE CIRCUS X100U",
+    "Price": 4586.75
+  },
+  {
+    "Code": 12164,
+    "Description": "GALLETA FORMIS X102G",
+    "Price": 2814
+  },
+  {
+    "Code": 12190,
+    "Description": "CHICLE ROBROTHER MT X100U",
+    "Price": 1139.25
+  },
+  {
+    "Code": 12191,
+    "Description": "CHICLE ROBROTHER FR X100U",
+    "Price": 1139.25
+  },
+  {
+    "Code": 12198,
+    "Description": "MALVAVISCO GONGYS X28G",
+    "Price": 847.7
+  },
+  {
+    "Code": 12200,
+    "Description": "MALVAVISCOS CORAZON X200G",
+    "Price": 2304.75
+  },
+  {
+    "Code": 12206,
+    "Description": "JUGO ARCOR NARJ/DURAZ X18U",
+    "Price": 6197.8
+  },
+  {
+    "Code": 12209,
+    "Description": "BALDE X1U",
+    "Price": 8750
+  },
+  {
+    "Code": 12213,
+    "Description": "MANI CON CHOCOLATE X20U",
+    "Price": 2559.9
+  },
+  {
+    "Code": 12216,
+    "Description": "CUBANITO OBLITA NOUGAT X264G",
+    "Price": 10069.8
+  },
+  {
+    "Code": 12219,
+    "Description": "CARAMELO MENTA/CHOC X150U",
+    "Price": 4978.05
+  },
+  {
+    "Code": 12230,
+    "Description": "GALLETA MINI PEPAS X175G",
+    "Price": 553.7
+  },
+  {
+    "Code": 12231,
+    "Description": "TE DE TILO EN SAQUITO X25U",
+    "Price": 5096
+  },
+  {
+    "Code": 12232,
+    "Description": "NUEZ MOSCADA X25G",
+    "Price": 2447.9
+  },
+  {
+    "Code": 12239,
+    "Description": "CHUPETIN EVOLUTION X24U",
+    "Price": 11335.1
+  },
+  {
+    "Code": 12240,
+    "Description": "CHUPETIN EVOLUTION X24U",
+    "Price": 1412.25
+  },
+  {
+    "Code": 12241,
+    "Description": "CARAMELO MASTICABLE GRANJERO X100U",
+    "Price": 4586.75
+  },
+  {
+    "Code": 12249,
+    "Description": "HUEVITO TOYS 22G X1U",
+    "Price": 2411.85
+  },
+  {
+    "Code": 12251,
+    "Description": "CHICLE POOSH! SANDIA X50U",
+    "Price": 7807.8
+  },
+  {
+    "Code": 12262,
+    "Description": "CHUPETIN TROMPITO X50U",
+    "Price": 15362.6
+  },
+  {
+    "Code": 12271,
+    "Description": "CHIZITO CROQUITO 15X15G",
+    "Price": 5250
+  },
+  {
+    "Code": 12274,
+    "Description": "CHUPETIN CHUPETE GRANDE X10U",
+    "Price": 5414.5
+  },
+  {
+    "Code": 12275,
+    "Description": "CHUPETIN PAPA NOEL X20U",
+    "Price": 926.1
+  },
+  {
+    "Code": 12276,
+    "Description": "CHUPETIN BOTELLITA X15U",
+    "Price": 671.3
+  },
+  {
+    "Code": 12277,
+    "Description": "CHUPETIN FRUTILLA X25U",
+    "Price": 1372
+  },
+  {
+    "Code": 12281,
+    "Description": "CHUPETIN SIMPSON X30U",
+    "Price": 1494.5
+  },
+  {
+    "Code": 12282,
+    "Description": "CHUPETIN CORAZON MED X12U",
+    "Price": 1911
+  },
+  {
+    "Code": 12288,
+    "Description": "CUBANITO OBLITA LIMON X48U",
+    "Price": 10069.8
+  },
+  {
+    "Code": 12290,
+    "Description": "GALLETA HOGAREÑA SALVADO X200G",
+    "Price": 379.75
+  },
+  {
+    "Code": 12292,
+    "Description": "CHICLE BELDENT MENTOL X20U",
+    "Price": 30142.7
+  },
+  {
+    "Code": 12294,
+    "Description": "CAFE TORRADO VILLARICA X125G",
+    "Price": 3312.75
+  },
+  {
+    "Code": 12312,
+    "Description": "STOPPY CHOCOLATE X17G",
+    "Price": 334.6
+  },
+  {
+    "Code": 12313,
+    "Description": "STOPPY MAROC X17G",
+    "Price": 334.6
+  },
+  {
+    "Code": 12330,
+    "Description": "ANIS EN GRANO VILLA RICA X25G",
+    "Price": 1203.65
+  },
+  {
+    "Code": 12332,
+    "Description": "CHUPETIN BOLA LOCA FUTBOL X24U",
+    "Price": 9164.75
+  },
+  {
+    "Code": 12333,
+    "Description": "CARAMELO SUGUS MAX X70U",
+    "Price": 11126.2
+  },
+  {
+    "Code": 12334,
+    "Description": "CHUPETIN BOLA LOCA FUTBOL X24U",
+    "Price": 9164.75
+  },
+  {
+    "Code": 12335,
+    "Description": "RESTO POLLO AL LIMON X41G",
+    "Price": 547.4
+  },
+  {
+    "Code": 12336,
+    "Description": "MINORA X10U",
+    "Price": 19100.9
+  },
+  {
+    "Code": 12348,
+    "Description": "HUEVITO SAPITO X22G",
+    "Price": 1269.8
+  },
+  {
+    "Code": 12354,
+    "Description": "GOMITA GOMUTCHO 10X30U",
+    "Price": 18139.8
+  },
+  {
+    "Code": 12362,
+    "Description": "CHUPETIN CORAZONCITO X20U",
+    "Price": 1100.05
+  },
+  {
+    "Code": 12367,
+    "Description": "BUDIN  C/FRUTA BUON NATALE X180G",
+    "Price": 1960
+  },
+  {
+    "Code": 12384,
+    "Description": "PAPA LAYS X60G",
+    "Price": 913.5
+  },
+  {
+    "Code": 12385,
+    "Description": "VAINILLIN X100C.C. X1U",
+    "Price": 2736.65
+  },
+  {
+    "Code": 12389,
+    "Description": "GALLETA PRESUMIDAS X160G",
+    "Price": 1508.5
+  },
+  {
+    "Code": 12390,
+    "Description": "GALLETA PRESUMIDAS X160G",
+    "Price": 1508.5
+  },
+  {
+    "Code": 12394,
+    "Description": "CHICLE BELDENT MENTA X20U",
+    "Price": 30142.7
+  },
+  {
+    "Code": 12397,
+    "Description": "CARAMELO SUGUS MAST X700G",
+    "Price": 20099.5
+  },
+  {
+    "Code": 12398,
+    "Description": "OBLEA BAÑADA HAMLET 18X30G",
+    "Price": 15377.3
+  },
+  {
+    "Code": 12399,
+    "Description": "CHUPETIN BOLA LOCA FUTBOL X24U",
+    "Price": 9164.75
+  },
+  {
+    "Code": 12410,
+    "Description": "TURRON ARCOR X25G",
+    "Price": 789.25
+  },
+  {
+    "Code": 12411,
+    "Description": "POSTRE BONOBON X38G",
+    "Price": 268.8
+  },
+  {
+    "Code": 12418,
+    "Description": "GALLETA PRESUMIDA DULCE LECHE X160G",
+    "Price": 1508.5
+  },
+  {
+    "Code": 12426,
+    "Description": "CHOCOLATE COFLER BLOCK X20U",
+    "Price": 45179
+  },
+  {
+    "Code": 12427,
+    "Description": "CHOCOLATE COFLER BLOCK 38G",
+    "Price": 2426.9
+  },
+  {
+    "Code": 12428,
+    "Description": "JUGO PEPITO MULTIFRUTA X170CM",
+    "Price": 819
+  },
+  {
+    "Code": 12429,
+    "Description": "GELATINA DENTADURA X300G",
+    "Price": 4732
+  },
+  {
+    "Code": 12437,
+    "Description": "PALITO CHINO NINJAGO X1U",
+    "Price": 268.45
+  },
+  {
+    "Code": 12440,
+    "Description": "MARRAKESH LHERITIER X100G",
+    "Price": 2332.4
+  },
+  {
+    "Code": 12443,
+    "Description": "CEREALMIX LIGHT MANZANA X23G",
+    "Price": 1794.45
+  },
+  {
+    "Code": 12444,
+    "Description": "CARTAS DRAGON BALLZ X1U",
+    "Price": 253.75
+  },
+  {
+    "Code": 12447,
+    "Description": "CHICLE TOPLINE UVA X20U",
+    "Price": 4595.85
+  },
+  {
+    "Code": 12450,
+    "Description": "CHUPETIN MISTER POPS GLITTS X50U",
+    "Price": 14933.1
+  },
+  {
+    "Code": 12452,
+    "Description": "CHUPETIN EVOLUTION FRUTILLA X24U",
+    "Price": 11335.1
+  },
+  {
+    "Code": 12461,
+    "Description": "CUCURUCHOS X15/10U",
+    "Price": 3185
+  },
+  {
+    "Code": 12462,
+    "Description": "CUBANITOS CORTOS X30U",
+    "Price": 3185
+  },
+  {
+    "Code": 12464,
+    "Description": "CHIZITO FACU X1KG",
+    "Price": 11215.8
+  },
+  {
+    "Code": 12466,
+    "Description": "CHUPETIN PATITA X25U",
+    "Price": 3385.9
+  },
+  {
+    "Code": 12473,
+    "Description": "OBLEA SWISS ROLL X30G",
+    "Price": 142.1
+  },
+  {
+    "Code": 12483,
+    "Description": "CARAMELO MASTICABLE BILLIK X200U",
+    "Price": 8732.5
+  },
+  {
+    "Code": 12487,
+    "Description": "CHUPETIN BOLA LOCA FUTBOL X24U",
+    "Price": 9164.75
+  },
+  {
+    "Code": 12493,
+    "Description": "CHICLE TOPLINE 7 SANDIA/CITRUS X16U",
+    "Price": 29171.8
+  },
+  {
+    "Code": 12494,
+    "Description": "CHICLE TOPLINE 7 STRONG X16U",
+    "Price": 29171.8
+  },
+  {
+    "Code": 12495,
+    "Description": "CHICLE TOPLINE 7 STRAWBERRY X16U",
+    "Price": 29171.8
+  },
+  {
+    "Code": 12496,
+    "Description": "MENTHOPLUS BERRIES X12U",
+    "Price": 4403
+  },
+  {
+    "Code": 12497,
+    "Description": "MENTHOPLUS CREAMIX FRUT X12U",
+    "Price": 4403
+  },
+  {
+    "Code": 12498,
+    "Description": "GALLETA MANTIQUITA X350G",
+    "Price": 3950.8
+  },
+  {
+    "Code": 12499,
+    "Description": "GLOBO PIÑATA X1U",
+    "Price": 353.5
+  },
+  {
+    "Code": 12506,
+    "Description": "CANELA MOLIDA X25G",
+    "Price": 2131.85
+  },
+  {
+    "Code": 12509,
+    "Description": "JUGO BAGGIO ANA/BANA X1L",
+    "Price": 575.4
+  },
+  {
+    "Code": 12510,
+    "Description": "CARAMELO SUGUS MAX X70U",
+    "Price": 11126.2
+  },
+  {
+    "Code": 12511,
+    "Description": "CHICLE POOSH! MORA AZUL X50U",
+    "Price": 7807.8
+  },
+  {
+    "Code": 12515,
+    "Description": "GALLETA VARIEDAD X400G",
+    "Price": 5332.6
+  },
+  {
+    "Code": 12519,
+    "Description": "CARAMELO ALKA ACIDO X800G",
+    "Price": 18930.5
+  },
+  {
+    "Code": 12533,
+    "Description": "COLGANTE CON AROS X1U",
+    "Price": 367.85
+  },
+  {
+    "Code": 12534,
+    "Description": "FOCOS MAGILUZ 70W",
+    "Price": 833.7
+  },
+  {
+    "Code": 12535,
+    "Description": "FOCOS MAGILUZ 52W",
+    "Price": 833.7
+  },
+  {
+    "Code": 12538,
+    "Description": "CHIZITO FACU X400G",
+    "Price": 1750
+  },
+  {
+    "Code": 12543,
+    "Description": "PAN DULCE DON PAOLO X4000G",
+    "Price": 3264.8
+  },
+  {
+    "Code": 12544,
+    "Description": "FLAN VAINILLA SOBRE X120G",
+    "Price": 1490.3
+  },
+  {
+    "Code": 12548,
+    "Description": "GALLETA PEPONAS X180G",
+    "Price": 1693.65
+  },
+  {
+    "Code": 12549,
+    "Description": "GALLETA PEPONA X500G",
+    "Price": 593.95
+  },
+  {
+    "Code": 12555,
+    "Description": "FLORERITO COLOR ESTRU X20U",
+    "Price": 9676.8
+  },
+  {
+    "Code": 12560,
+    "Description": "PETARDO PUNGA X5U",
+    "Price": 6551.3
+  },
+  {
+    "Code": 12565,
+    "Description": "CHASKI BOOM C/STICKER X30U",
+    "Price": 2416.4
+  },
+  {
+    "Code": 12581,
+    "Description": "TOSTADAS LIGHT RIERA X200G",
+    "Price": 3621.8
+  },
+  {
+    "Code": 12582,
+    "Description": "TOSTADAS DULCE RIERA X200G",
+    "Price": 3119.9
+  },
+  {
+    "Code": 12585,
+    "Description": "GALLETA PEPITOS X118G",
+    "Price": 3972.15
+  },
+  {
+    "Code": 12588,
+    "Description": "SALADIX CAJA JAMON CRU X 80G",
+    "Price": 3242.75
+  },
+  {
+    "Code": 12589,
+    "Description": "JUGO INCA DURAZNO X18U",
+    "Price": 7175
+  },
+  {
+    "Code": 12590,
+    "Description": "JUGO INCA NARAN/BANA X18U",
+    "Price": 7175
+  },
+  {
+    "Code": 12595,
+    "Description": "CHICLE COMEFUEGO FIERITA X50U",
+    "Price": 2460.85
+  },
+  {
+    "Code": 12600,
+    "Description": "PEREJIL EN HOJAS X25G",
+    "Price": 1865.15
+  },
+  {
+    "Code": 12604,
+    "Description": "FUEGOL¡¡¡ FUEGOL¡¡¡ 20X4U",
+    "Price": 30464
+  },
+  {
+    "Code": 12605,
+    "Description": "SALADIX MAX QUESO 30GX6U",
+    "Price": 2756.95
+  },
+  {
+    "Code": 12606,
+    "Description": "SALADIX FUGAZZETA 30GX6U",
+    "Price": 10198.3
+  },
+  {
+    "Code": 12613,
+    "Description": "PRESTOBARBA X12U",
+    "Price": 28937.3
+  },
+  {
+    "Code": 12623,
+    "Description": "JUGO INCA ANANA/BANANA X15U",
+    "Price": 2516.5
+  },
+  {
+    "Code": 12625,
+    "Description": "GARAPIÑADA DE MANI ALTEZA X80G",
+    "Price": 1389.15
+  },
+  {
+    "Code": 12627,
+    "Description": "GALLETA MINI PEPITOS X50G",
+    "Price": 1841.7
+  },
+  {
+    "Code": 12630,
+    "Description": "CARAMELO SAQUITOS X454GG",
+    "Price": 8697.15
+  },
+  {
+    "Code": 12636,
+    "Description": "OBLEA OBLITA MIX FRUTAL X96G",
+    "Price": 1534.75
+  },
+  {
+    "Code": 12639,
+    "Description": "SALADIX MAX QUESO CAJA X80G",
+    "Price": 1229.55
+  },
+  {
+    "Code": 12642,
+    "Description": "ACHILATA CROQUITO X50U",
+    "Price": 8397.9
+  },
+  {
+    "Code": 12647,
+    "Description": "GALLETA FROLITAS BATATA X150G",
+    "Price": 1693.65
+  },
+  {
+    "Code": 12649,
+    "Description": "PAPA LAYS X150G",
+    "Price": 2130.45
+  },
+  {
+    "Code": 12650,
+    "Description": "CARAMELO SAQUITO X810G",
+    "Price": 13662.3
+  },
+  {
+    "Code": 12655,
+    "Description": "GALLETA PRESUMIDA VAI X160G",
+    "Price": 1508.5
+  },
+  {
+    "Code": 12659,
+    "Description": "BOMBON SURTIDO ARCOR X246G",
+    "Price": 17243.5
+  },
+  {
+    "Code": 12662,
+    "Description": "CARAMELO LIPO SUPERACIDO X907G",
+    "Price": 15539.7
+  },
+  {
+    "Code": 12664,
+    "Description": "GALLETA SURTIDA SOLITA X500G",
+    "Price": 3894.8
+  },
+  {
+    "Code": 12667,
+    "Description": "BARRITA CHOC MAXI KINDER X21G",
+    "Price": 2175.95
+  },
+  {
+    "Code": 12668,
+    "Description": "FERRERO ROCHER X37,5G",
+    "Price": 5931.8
+  },
+  {
+    "Code": 12673,
+    "Description": "CHUPETIN FRUTOMILA SURT X24U",
+    "Price": 1415.4
+  },
+  {
+    "Code": 12679,
+    "Description": "GALLETA OREO X118G",
+    "Price": 4219.25
+  },
+  {
+    "Code": 12684,
+    "Description": "NUBECITA FRUTILLA X500G",
+    "Price": 5005
+  },
+  {
+    "Code": 12689,
+    "Description": "GALLETA ARITOS X170G",
+    "Price": 1454.95
+  },
+  {
+    "Code": 12694,
+    "Description": "GELATINA PLANTS VS ZOMBIES X7U",
+    "Price": 203.35
+  },
+  {
+    "Code": 12701,
+    "Description": "CARAMELO SUGUS MAX X70U",
+    "Price": 11126.2
+  },
+  {
+    "Code": 12723,
+    "Description": "CHUPETIN PICO DULCE X48U",
+    "Price": 24263.4
+  },
+  {
+    "Code": 12725,
+    "Description": "PUFLITO FACU X500G",
+    "Price": 5005
+  },
+  {
+    "Code": 12726,
+    "Description": "MANI SALADO X30G",
+    "Price": 507.15
+  },
+  {
+    "Code": 12727,
+    "Description": "CHUPETIN PITO-PITO X24U",
+    "Price": 11018
+  },
+  {
+    "Code": 12749,
+    "Description": "OBLEA BAÑADA LIMON X25G",
+    "Price": 75.6
+  },
+  {
+    "Code": 12754,
+    "Description": "CONFITE SAPITO X24U",
+    "Price": 14001.8
+  },
+  {
+    "Code": 12755,
+    "Description": "CHOCOLATE HAMLET WAY X30G",
+    "Price": 806.05
+  },
+  {
+    "Code": 12756,
+    "Description": "FOCO MAGILUZ 28W",
+    "Price": 833.7
+  },
+  {
+    "Code": 12758,
+    "Description": "OBLEA SAPITO X20G",
+    "Price": 120.05
+  },
+  {
+    "Code": 12759,
+    "Description": "GOMITAS DINOLAND X24U",
+    "Price": 1382.15
+  },
+  {
+    "Code": 12760,
+    "Description": "GOMITAS JUNGLE FUN X24U",
+    "Price": 1382.5
+  },
+  {
+    "Code": 12762,
+    "Description": "GALLETA MEDIA TARDE SAND X321G",
+    "Price": 3578.05
+  },
+  {
+    "Code": 12763,
+    "Description": "CHOCOLATE SAPITO DESAFIO X24U",
+    "Price": 12069.8
+  },
+  {
+    "Code": 12764,
+    "Description": "PAPAS PAY LAYS X100G",
+    "Price": 716.45
+  },
+  {
+    "Code": 12765,
+    "Description": "GALLETA MINI OREO X50G",
+    "Price": 1891.75
+  },
+  {
+    "Code": 12766,
+    "Description": "CHICLE MUNDIAL X1U",
+    "Price": 57.4
+  },
+  {
+    "Code": 12767,
+    "Description": "PALITO CHINO C/HELICE X11G",
+    "Price": 110.25
+  },
+  {
+    "Code": 12768,
+    "Description": "CARAMELO BUTTER TOFFEES X150G",
+    "Price": 4978.05
+  },
+  {
+    "Code": 12769,
+    "Description": "CARTERA P/ESCONDER DINERO X1U",
+    "Price": 556.5
+  },
+  {
+    "Code": 12770,
+    "Description": "CHICLE BAZOOKA ANGRY BIRDS X110U",
+    "Price": 10109
+  },
+  {
+    "Code": 12771,
+    "Description": "GOMITA FRUIT COCKTAILS X1U",
+    "Price": 124.6
+  },
+  {
+    "Code": 12772,
+    "Description": "HUEVITO TOY MUNDIAL X1U",
+    "Price": 820.05
+  },
+  {
+    "Code": 12773,
+    "Description": "GOMITAS JUNGLE FUN X1U",
+    "Price": 57.4
+  },
+  {
+    "Code": 12774,
+    "Description": "GOMITAS DINO LAND X1U",
+    "Price": 57.4
+  },
+  {
+    "Code": 12775,
+    "Description": "BONOBON MIX X30U",
+    "Price": 22747.5
+  },
+  {
+    "Code": 12776,
+    "Description": "MARSHMALLOWS X1U",
+    "Price": 66.5
+  },
+  {
+    "Code": 12777,
+    "Description": "CARAMELO LIQUIDO ACIDO X1U",
+    "Price": 107.1
+  },
+  {
+    "Code": 12778,
+    "Description": "PALETA P/NENA X12U",
+    "Price": 666.4
+  },
+  {
+    "Code": 12779,
+    "Description": "TROMPO Z AVENTURA 24U",
+    "Price": 1522.5
+  },
+  {
+    "Code": 12780,
+    "Description": "TOSTADA RIERA X200G",
+    "Price": 3119.9
+  },
+  {
+    "Code": 12781,
+    "Description": "PIMENTON X250G",
+    "Price": 5758.9
+  },
+  {
+    "Code": 12782,
+    "Description": "JUGO BAGGIO FRESH MULTIFRUTA X200ML",
+    "Price": 1012.9
+  },
+  {
+    "Code": 12783,
+    "Description": "PAN RALLADO X500G",
+    "Price": 253.75
+  },
+  {
+    "Code": 12784,
+    "Description": "BESITO REVENTON X1U",
+    "Price": 152.25
+  },
+  {
+    "Code": 12785,
+    "Description": "PLANTS VS ZOMBIES2 X1U",
+    "Price": 116.9
+  },
+  {
+    "Code": 12786,
+    "Description": "CHIMA BUILDINC BLOCK X1U",
+    "Price": 152.25
+  },
+  {
+    "Code": 12787,
+    "Description": "BILLUT NENA X1U",
+    "Price": 101.5
+  },
+  {
+    "Code": 12788,
+    "Description": "LINTERNA BLISTER 7LED X1U",
+    "Price": 1619.1
+  },
+  {
+    "Code": 12789,
+    "Description": "CHOCOLATE P/TAZA ALTEZA X90G",
+    "Price": 2861.25
+  },
+  {
+    "Code": 12790,
+    "Description": "CARAMELO BUTTER TOFFEES MINT X150G",
+    "Price": 4619.3
+  },
+  {
+    "Code": 12791,
+    "Description": "GALLETA SANDWICH ARCOR X336G",
+    "Price": 4057.2
+  },
+  {
+    "Code": 12792,
+    "Description": "CHICLE POOSH! KIWI X50U",
+    "Price": 7807.8
+  },
+  {
+    "Code": 12793,
+    "Description": "CHIZITOS C/FIGURITAS X24U",
+    "Price": 822.85
+  },
+  {
+    "Code": 12794,
+    "Description": "CHICLE BOMKY MUNDIAL X120U",
+    "Price": 1307.95
+  },
+  {
+    "Code": 12795,
+    "Description": "GALLETA CEREALITAS ARROZ X160G",
+    "Price": 1463.7
+  },
+  {
+    "Code": 12796,
+    "Description": "CHICLE PLUTONITA FRUTILLA X100U",
+    "Price": 3692.15
+  },
+  {
+    "Code": 12797,
+    "Description": "CHICLE PLUTONITA MENTA X100U",
+    "Price": 3692.15
+  },
+  {
+    "Code": 12798,
+    "Description": "MARRAKESH BOCA X12U",
+    "Price": 987.7
+  },
+  {
+    "Code": 12799,
+    "Description": "MARRAKESH RIVER X12U",
+    "Price": 987.7
+  },
+  {
+    "Code": 12800,
+    "Description": "ALFAJOR CHULITO NG X22G",
+    "Price": 25.55
+  },
+  {
+    "Code": 12801,
+    "Description": "MERMELADA SABOR FRUTAL X20U",
+    "Price": 1370.25
+  },
+  {
+    "Code": 12802,
+    "Description": "AVIONES MUNDO DE CARS X30U",
+    "Price": 2436
+  },
+  {
+    "Code": 12803,
+    "Description": "CONFITE UVA X1U",
+    "Price": 2537.5
+  },
+  {
+    "Code": 12805,
+    "Description": "CARAMELO ACIDO BUBBALOO X1U",
+    "Price": 24.5
+  },
+  {
+    "Code": 12806,
+    "Description": "CARAMELO BUBBALOO CRUNCHY X1U",
+    "Price": 72.45
+  },
+  {
+    "Code": 12807,
+    "Description": "GALLETA PEPAS GAONA X180G",
+    "Price": 149.1
+  },
+  {
+    "Code": 12808,
+    "Description": "GALLETA PEPAS GAONA X350G",
+    "Price": 299.25
+  },
+  {
+    "Code": 12809,
+    "Description": "HUEVO KINDER X20G",
+    "Price": 5600.35
+  },
+  {
+    "Code": 12810,
+    "Description": "OBLEA OBLITA ANANA X96G",
+    "Price": 1534.75
+  },
+  {
+    "Code": 12811,
+    "Description": "MINI ALFAJOR SOLITAS X160G",
+    "Price": 2525.6
+  },
+  {
+    "Code": 12812,
+    "Description": "MINI ALFAJOR OBSEQUIO SOLITAS X160G",
+    "Price": 2525.6
+  },
+  {
+    "Code": 12813,
+    "Description": "GALLETA ANILLOS TRIO X150G",
+    "Price": 295.4
+  },
+  {
+    "Code": 12814,
+    "Description": "GALLETA FROLITAS BATATA X500G",
+    "Price": 593.95
+  },
+  {
+    "Code": 12815,
+    "Description": "CHICLE FIERITA FRUTILLA X100U",
+    "Price": 6772.15
+  },
+  {
+    "Code": 12816,
+    "Description": "CHICLE STICK MTA X100U",
+    "Price": 486.15
+  },
+  {
+    "Code": 12817,
+    "Description": "CHIZITO BOKI CHESS X10U",
+    "Price": 4617.9
+  },
+  {
+    "Code": 12818,
+    "Description": "TOSTADA C/GLUTEN X200G",
+    "Price": 394.45
+  },
+  {
+    "Code": 12819,
+    "Description": "MINORA X5U",
+    "Price": 1167.25
+  },
+  {
+    "Code": 12820,
+    "Description": "CHUPETONES X12",
+    "Price": 1604.05
+  },
+  {
+    "Code": 12821,
+    "Description": "MANTECOL X63G",
+    "Price": 2664.2
+  },
+  {
+    "Code": 12822,
+    "Description": "CHOCOLATE P/TAZA GODET X100G",
+    "Price": 5230.05
+  },
+  {
+    "Code": 12824,
+    "Description": "CHICLE BOMKY GATURRO X120U",
+    "Price": 2074.8
+  },
+  {
+    "Code": 12825,
+    "Description": "CHICLE BOMKY MUNDIAL X120U",
+    "Price": 1307.95
+  },
+  {
+    "Code": 12826,
+    "Description": "CARAMELO MR MONKEY X13G",
+    "Price": 62.3
+  },
+  {
+    "Code": 12827,
+    "Description": "CARAMELO MR MONKEY NARJ X32U",
+    "Price": 1985.9
+  },
+  {
+    "Code": 12828,
+    "Description": "ESTUCHE BUTTER TOFFES",
+    "Price": 266
+  },
+  {
+    "Code": 12829,
+    "Description": "MENTHOPLUS RELL MIEL X12U",
+    "Price": 16321.5
+  },
+  {
+    "Code": 12830,
+    "Description": "MENTHOPLUS COFLER X12U",
+    "Price": 4403
+  },
+  {
+    "Code": 12831,
+    "Description": "CHUPETIN EVOLUTION SURTIDO X24U",
+    "Price": 11250.8
+  },
+  {
+    "Code": 12832,
+    "Description": "CHUPETIN EVOLUTION DE UVA X24U",
+    "Price": 11335.1
+  },
+  {
+    "Code": 12833,
+    "Description": "CONFITE MINI BANANAS X10U",
+    "Price": 371
+  },
+  {
+    "Code": 12835,
+    "Description": "JUGO VERAO MANZANA X18U",
+    "Price": 2287.6
+  },
+  {
+    "Code": 12836,
+    "Description": "JUGO VERAO NARANJA/DURAZNO X18U",
+    "Price": 2287.6
+  },
+  {
+    "Code": 12837,
+    "Description": "JUGO VERAO ANANA X18U",
+    "Price": 2287.6
+  },
+  {
+    "Code": 12838,
+    "Description": "JUGO VERAO NARANJA X18U",
+    "Price": 2287.6
+  },
+  {
+    "Code": 12839,
+    "Description": "GALLETA FESTIVA MANTECA X300G",
+    "Price": 3561.25
+  },
+  {
+    "Code": 12840,
+    "Description": "CHIZITO RENO X70G",
+    "Price": 1008.35
+  },
+  {
+    "Code": 12841,
+    "Description": "PALITO SALADO CROQUITO X500G",
+    "Price": 2150.75
+  },
+  {
+    "Code": 12842,
+    "Description": "CALCULADORA ABB 8DIGIT X1U",
+    "Price": 1477
+  },
+  {
+    "Code": 12843,
+    "Description": "CHUPETIN PINTA LENGUA X15U",
+    "Price": 524.3
+  },
+  {
+    "Code": 12844,
+    "Description": "BOMBON OBLITA X10U",
+    "Price": 6114.5
+  },
+  {
+    "Code": 12845,
+    "Description": "BOMBON OBLITA X10U",
+    "Price": 6114.5
+  },
+  {
+    "Code": 12846,
+    "Description": "CHUPETIN BOLA LOCA MAX X24U",
+    "Price": 9164.75
+  },
+  {
+    "Code": 12847,
+    "Description": "OBLEA HAMLET 30G X1U",
+    "Price": 204.75
+  },
+  {
+    "Code": 12848,
+    "Description": "JUGO BAGGIO SOYYO MUITIFRUTAL X200ML",
+    "Price": 179.9
+  },
+  {
+    "Code": 12849,
+    "Description": "CARAMELO RODAJAS ACIDOS X930G",
+    "Price": 4207
+  }
+]
