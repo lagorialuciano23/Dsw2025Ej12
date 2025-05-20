@@ -39,6 +39,9 @@ internal class ExchangeService
     {
         var quote = GetAverageDollarQuote();
         var products = GetProducts();
-        products.ForEach(p => p.UpdatePrice(quote));
+        products.ForEach(p => {
+            p.UpdatePrice(quote);
+            Console.WriteLine($"{p.DollarPrice:C2}");
+        });
     }
 }
