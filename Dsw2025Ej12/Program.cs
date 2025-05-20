@@ -9,6 +9,7 @@ namespace Dsw2025Ej12
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Conversor de precios ARS -> USD");
             var stopwatch = Stopwatch.StartNew();
             var service = new ExchangeService();
             service.UpdatePrices();
