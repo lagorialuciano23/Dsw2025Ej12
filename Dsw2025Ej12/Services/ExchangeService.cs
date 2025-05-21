@@ -11,7 +11,7 @@ namespace Dsw2025Ej12.Services;
 
 internal class ExchangeService
 {
-    public decimal GetAverageDollarQuote()
+    public async Task <decimal> GetAverageDollarQuote()
     {
         var quote1 = QuoteManager.GetDollarQuoteOptionOneAsync();
         var quote2 = QuoteManager.GetDollarQuoteOptionTwoAsync();
