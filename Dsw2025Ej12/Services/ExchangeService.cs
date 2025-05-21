@@ -13,11 +13,11 @@ internal class ExchangeService
 {
     public decimal GetAverageDollarQuote()
     {
-        var quote1 = QuoteManager.GetDollarQuoteOptionOne();
-        var quote2 = QuoteManager.GetDollarQuoteOptionTwo();
-        var quote3 = QuoteManager.GetDollarQuoteOptionThree();
+        var quote1 = QuoteManager.GetDollarQuoteOptionOneAsync();
+        var quote2 = QuoteManager.GetDollarQuoteOptionTwoAsync();
+        var quote3 = QuoteManager.GetDollarQuoteOptionThreeAsync();
 
-        var list = new[] { quote1, quote2, quote3 };
+        var list = await Task.WhenAll(quote1, quote2, quote3);
         return list.Average();
     }
 
@@ -35,9 +35,9 @@ internal class ExchangeService
         return products;
     }
 
-    public void UpdatePrices()
+    public async Task UpdatePrices()
     {
-        var quote = GetAverageDollarQuote();
+        var quote = await GetAverageDollarQuote();
         var products = GetProducts();
         products.ForEach(p => {
             p.UpdatePrice(quote);
